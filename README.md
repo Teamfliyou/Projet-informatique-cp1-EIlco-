@@ -9,7 +9,7 @@ Cadre : Cycle Préparatoire Intégré 1ère année - Dunkerque.
 Enseignant : B. Fortin.
 
 
-Auteurs : [Ton Nom 1] & [Nom 2].
+Auteurs : Zayd FLiyou & Teo Dubar.
 
 🛠️ Prérequis et Bibliothèques
 Pour fonctionner, ce programme nécessite Python 3.x et la bibliothèque de visualisation suivante :
